@@ -27,7 +27,7 @@ class About extends Component {
             <br />
             <br />
             <br />
-            <h1> I like coding, MMA   </h1> 
+            <h1> I like coding, traveling   </h1> 
             <h1>AND
               <h1> having a positive attitude</h1>
             </h1>
